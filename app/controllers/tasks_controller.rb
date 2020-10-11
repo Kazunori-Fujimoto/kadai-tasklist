@@ -48,7 +48,7 @@ class TasksController < ApplicationController
     redirect_to task_url
   end
 
-  priate
+  private
   
   # Strong Parameter
   
